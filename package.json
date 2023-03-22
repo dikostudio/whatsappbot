@@ -1,0 +1,16 @@
+{
+  "name": "whatsappbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "whatsappbot.js",
+  "scripts": {
+    "start": "node whatsappbot.js"
+  },
+"type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@green-api/whatsapp-bot": "^0.2.5",
+    "express": "^4.18.2"
+  }
+}
